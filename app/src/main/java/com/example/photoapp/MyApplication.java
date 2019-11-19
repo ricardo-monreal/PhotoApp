@@ -11,7 +11,7 @@ public class MyApplication extends Application {
 
     List<Uri> uriList = new ArrayList<>();
 
-    public MyApplication(List<Uri> uriList) {
+    public MyApplication() {
         this.uriList = new ArrayList<>();
     }
 
